@@ -1,0 +1,156 @@
+{
+  "nazwa_linii": "25",
+  "opis_linii": "Kierunek: Kolankowskiego",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Uniwersytet"
+    ],
+    [
+      "1",
+      "Okrężna"
+    ],
+    [
+      "2",
+      "Aula UMK"
+    ],
+    [
+      "3",
+      "Akademiki"
+    ],
+    [
+      "5",
+      "Od Nowa"
+    ],
+    [
+      "6",
+      "Fałata"
+    ],
+    [
+      "7",
+      "Gałczyńskiego n/ż"
+    ],
+    [
+      "9",
+      "Hala Sportowa"
+    ],
+    [
+      "11",
+      "Małachowskiego"
+    ],
+    [
+      "13",
+      "Wybickiego"
+    ],
+    [
+      "15",
+      "Popiela"
+    ],
+    [
+      "17",
+      "Sczanieckiego"
+    ],
+    [
+      "18",
+      "Urząd Celny n/ż"
+    ],
+    [
+      "20",
+      "Chrobrego n/ż"
+    ],
+    [
+      "23",
+      "Tofama"
+    ],
+    [
+      "25",
+      "Przychodnia"
+    ],
+    [
+      "26",
+      "Elana B n/ż"
+    ],
+    [
+      "28",
+      "Bukowa"
+    ],
+    [
+      "31",
+      "Przybyłów"
+    ],
+    [
+      "33",
+      "Ślaskiego"
+    ],
+    [
+      "35",
+      "Wyszyńskiego"
+    ],
+    [
+      "36",
+      "Ligi Polskiej"
+    ],
+    [
+      "37",
+      "Witosa"
+    ],
+    [
+      "39",
+      "Kolankowskiego"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "18",
+        "58"
+      ]
+    ],
+    [
+      "06",
+      [
+        "25"
+      ]
+    ],
+    [
+      "07",
+      [
+        "00",
+        "28",
+        "58"
+      ]
+    ],
+    [
+      "13",
+      [
+        "10",
+        "41"
+      ]
+    ],
+    [
+      "14",
+      [
+        "08",
+        "45"
+      ]
+    ],
+    [
+      "15",
+      [
+        "10",
+        "47"
+      ]
+    ],
+    [
+      "16",
+      [
+        "10",
+        "46"
+      ]
+    ]
+  ]
+}

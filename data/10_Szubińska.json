@@ -1,0 +1,186 @@
+{
+  "nazwa_linii": "10",
+  "opis_linii": "Kierunek: Szubińska",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Forteczna (pętla)"
+    ],
+    [
+      "1",
+      "Forteczna II n/ż"
+    ],
+    [
+      "1",
+      "Rybińskiego n/ż"
+    ],
+    [
+      "2",
+      "Strobanda (pętla)"
+    ],
+    [
+      "3",
+      "Grasera"
+    ],
+    [
+      "4",
+      "Hubego"
+    ],
+    [
+      "5",
+      "Freytaga"
+    ],
+    [
+      "6",
+      "Wiśniowieckiego"
+    ],
+    [
+      "9",
+      "Koniuchy"
+    ],
+    [
+      "10",
+      "Osiedle Tysiąclecia"
+    ],
+    [
+      "12",
+      "Lelewela"
+    ],
+    [
+      "14",
+      "Dekerta"
+    ],
+    [
+      "15",
+      "Legionów"
+    ],
+    [
+      "18",
+      "Aleja Solidarności"
+    ],
+    [
+      "21",
+      "Plac Rapackiego"
+    ],
+    [
+      "24",
+      "Plac Armii Krajowej"
+    ],
+    [
+      "25",
+      "Hallera"
+    ],
+    [
+      "27",
+      "Parkowa"
+    ],
+    [
+      "28",
+      "Poznańska (komisariat) n/ż"
+    ],
+    [
+      "29",
+      "Kluczyki n/ż"
+    ],
+    [
+      "30",
+      "Kluczyki Cmentarz"
+    ],
+    [
+      "30",
+      "Polmozbyt n/ż"
+    ],
+    [
+      "31",
+      "Kręta"
+    ],
+    [
+      "31",
+      "Stepowa n/ż"
+    ],
+    [
+      "32",
+      "Gniewkowska n/ż"
+    ],
+    [
+      "33",
+      "Bliska n/ż"
+    ],
+    [
+      "34",
+      "Szubińska"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "06",
+      [
+        "08"
+      ]
+    ],
+    [
+      "07",
+      [
+        "08",
+        "38"
+      ]
+    ],
+    [
+      "08",
+      [
+        "08"
+      ]
+    ],
+    [
+      "13",
+      [
+        "-"
+      ]
+    ],
+    [
+      "14",
+      [
+        "08"
+      ]
+    ],
+    [
+      "15",
+      [
+        "11"
+      ]
+    ],
+    [
+      "16",
+      [
+        "26"
+      ]
+    ],
+    [
+      "17",
+      [
+        "06"
+      ]
+    ],
+    [
+      "18",
+      [
+        "-"
+      ]
+    ],
+    [
+      "20",
+      [
+        "26a"
+      ]
+    ],
+    [
+      "21",
+      [
+        "46ad"
+      ]
+    ]
+  ]
+}

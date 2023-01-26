@@ -1,0 +1,202 @@
+{
+  "nazwa_linii": "46",
+  "opis_linii": "Kierunek: Rubinkowo II przez Osiek",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "",
+      "S T R E F A  II"
+    ],
+    [
+      "0",
+      "Obrowo"
+    ],
+    [
+      "2",
+      "Obrowo-Osiedle n/ż"
+    ],
+    [
+      "5",
+      "Kolonia Obrowska n/ż"
+    ],
+    [
+      "6",
+      "Sąsieczno n/ż"
+    ],
+    [
+      "8",
+      "Osiek-Siciny I n/ż"
+    ],
+    [
+      "10",
+      "Osiek-Siciny II n/ż"
+    ],
+    [
+      "12",
+      "Osiek-Szkoła n/ż"
+    ],
+    [
+      "14",
+      "Osiek n/ż"
+    ],
+    [
+      "16",
+      "Dzikowo skrz. n/ż"
+    ],
+    [
+      "18",
+      "Dzikowo n/ż"
+    ],
+    [
+      "20",
+      "Silno IV n/ż"
+    ],
+    [
+      "22",
+      "Silno III n/ż"
+    ],
+    [
+      "23",
+      "Silno II n/ż"
+    ],
+    [
+      "25",
+      "Silno I n/ż"
+    ],
+    [
+      "27",
+      "Grabowiec-Wieś n/ż"
+    ],
+    [
+      "28",
+      "Grabowiec II n/ż"
+    ],
+    [
+      "29",
+      "Grabowiec I n/ż"
+    ],
+    [
+      "30",
+      "Złotoria II n/ż"
+    ],
+    [
+      "31",
+      "Złotoria I n/ż"
+    ],
+    [
+      "33",
+      "Pomorska n/ż"
+    ],
+    [
+      "33",
+      "S T R E F A  I - gr. adm."
+    ],
+    [
+      "34",
+      "Drwęca n/ż"
+    ],
+    [
+      "35",
+      "Kogucia n/ż"
+    ],
+    [
+      "36",
+      "Dożynkowa"
+    ],
+    [
+      "38",
+      "Księżycowa n/ż"
+    ],
+    [
+      "40",
+      "Ligi Polskiej"
+    ],
+    [
+      "43",
+      "Rubinkowo II"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "04",
+      [
+        "40"
+      ]
+    ],
+    [
+      "05",
+      [
+        "05"
+      ]
+    ],
+    [
+      "06",
+      [
+        "30"
+      ]
+    ],
+    [
+      "08",
+      [
+        "00"
+      ]
+    ],
+    [
+      "09",
+      [
+        "30"
+      ]
+    ],
+    [
+      "11",
+      [
+        "05"
+      ]
+    ],
+    [
+      "12",
+      [
+        "38"
+      ]
+    ],
+    [
+      "14",
+      [
+        "38"
+      ]
+    ],
+    [
+      "15",
+      [
+        "15"
+      ]
+    ],
+    [
+      "16",
+      [
+        "17",
+        "55"
+      ]
+    ],
+    [
+      "18",
+      [
+        "00"
+      ]
+    ],
+    [
+      "19",
+      [
+        "30"
+      ]
+    ],
+    [
+      "21",
+      [
+        "55"
+      ]
+    ]
+  ]
+}

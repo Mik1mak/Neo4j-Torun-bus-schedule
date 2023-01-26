@@ -1,0 +1,210 @@
+{
+  "nazwa_linii": "35",
+  "opis_linii": "Kierunek: Plac św. Katarzyny",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "",
+      "S T R E F A  II"
+    ],
+    [
+      "0",
+      "Krobia"
+    ],
+    [
+      "1",
+      "Krobia-Poligraficzna n/ż"
+    ],
+    [
+      "2",
+      "Krobia-Osiedlowa n/ż"
+    ],
+    [
+      "3",
+      "Krobia-Kalinowa n/ż"
+    ],
+    [
+      "5",
+      "Lubicz Górny"
+    ],
+    [
+      "7",
+      "Lubicz-Osiedle"
+    ],
+    [
+      "8",
+      "Lubicz-Bankowa"
+    ],
+    [
+      "10",
+      "Lubicz Górny"
+    ],
+    [
+      "12",
+      "Lubicz Dolny"
+    ],
+    [
+      "15",
+      "Lubicz-Lipowa"
+    ],
+    [
+      "17",
+      "Odległa II"
+    ],
+    [
+      "17",
+      "S T R E F A  I - gr. adm."
+    ],
+    [
+      "19",
+      "Płocka n/ż"
+    ],
+    [
+      "20",
+      "Słupska n/ż"
+    ],
+    [
+      "22",
+      "Kusocińskiego n/ż"
+    ],
+    [
+      "23",
+      "Kolankowskiego"
+    ],
+    [
+      "25",
+      "Dziewulskiego"
+    ],
+    [
+      "27",
+      "Przybyłów"
+    ],
+    [
+      "28",
+      "Manhattan"
+    ],
+    [
+      "30",
+      "Rubinkowo Centrum"
+    ],
+    [
+      "32",
+      "Donimirskiego"
+    ],
+    [
+      "34",
+      "Wschodnia"
+    ],
+    [
+      "37",
+      "Dworzec Wschodni"
+    ],
+    [
+      "40",
+      "Garbaty Mostek"
+    ],
+    [
+      "41",
+      "Przy Kaszowniku"
+    ],
+    [
+      "45",
+      "Aleja Solidarności"
+    ],
+    [
+      "48",
+      "Plac św. Katarzyny"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "04",
+      [
+        "43"
+      ]
+    ],
+    [
+      "05",
+      [
+        "56"
+      ]
+    ],
+    [
+      "06",
+      [
+        "40",
+        "58"
+      ]
+    ],
+    [
+      "07",
+      [
+        "34"
+      ]
+    ],
+    [
+      "08",
+      [
+        "-"
+      ]
+    ],
+    [
+      "10",
+      [
+        "25"
+      ]
+    ],
+    [
+      "11",
+      [
+        "-"
+      ]
+    ],
+    [
+      "13",
+      [
+        "10"
+      ]
+    ],
+    [
+      "14",
+      [
+        "03",
+        "54"
+      ]
+    ],
+    [
+      "16",
+      [
+        "15"
+      ]
+    ],
+    [
+      "17",
+      [
+        "01",
+        "40"
+      ]
+    ],
+    [
+      "19",
+      [
+        "56"
+      ]
+    ],
+    [
+      "22",
+      [
+        "01"
+      ]
+    ],
+    [
+      "23",
+      [
+        "19z"
+      ]
+    ]
+  ]
+}

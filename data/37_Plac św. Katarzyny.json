@@ -1,0 +1,155 @@
+{
+  "nazwa_linii": "37",
+  "opis_linii": "Kierunek: Plac św. Katarzyny",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "",
+      "S T R E F A  II"
+    ],
+    [
+      "0",
+      "Gronowo"
+    ],
+    [
+      "4",
+      "Brzeźno"
+    ],
+    [
+      "6",
+      "Rogówko"
+    ],
+    [
+      "8",
+      "Ogrodnik n/ż"
+    ],
+    [
+      "9",
+      "Ośrodek Zdrowia"
+    ],
+    [
+      "11",
+      "Grębocin"
+    ],
+    [
+      "14",
+      "Kolonia Papowska"
+    ],
+    [
+      "17",
+      "Grębocin"
+    ],
+    [
+      "18",
+      "S T R E F A  I - gr. adm."
+    ],
+    [
+      "18",
+      "Kresowa"
+    ],
+    [
+      "21",
+      "Wapienna"
+    ],
+    [
+      "22",
+      "Meprozet"
+    ],
+    [
+      "23",
+      "Nad Rzeczką"
+    ],
+    [
+      "24",
+      "Bajeczna"
+    ],
+    [
+      "25",
+      "Cegielnia"
+    ],
+    [
+      "27",
+      "Suwalska"
+    ],
+    [
+      "29",
+      "Szczecińska"
+    ],
+    [
+      "30",
+      "Barwna"
+    ],
+    [
+      "31",
+      "Chrzanowskiego"
+    ],
+    [
+      "33",
+      "Bukowa"
+    ],
+    [
+      "34",
+      "Elana B n/ż"
+    ],
+    [
+      "35",
+      "Elana A n/ż"
+    ],
+    [
+      "36",
+      "Przychodnia"
+    ],
+    [
+      "37",
+      "Tofama"
+    ],
+    [
+      "40",
+      "Dworzec Wschodni"
+    ],
+    [
+      "43",
+      "Garbaty Mostek"
+    ],
+    [
+      "44",
+      "Przy Kaszowniku"
+    ],
+    [
+      "48",
+      "Aleja Solidarności"
+    ],
+    [
+      "51",
+      "Plac św. Katarzyny"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "04",
+      [
+        "50P"
+      ]
+    ],
+    [
+      "06",
+      [
+        "45Px"
+      ]
+    ],
+    [
+      "08",
+      [
+        "50"
+      ]
+    ],
+    [
+      "13",
+      [
+        "31"
+      ]
+    ]
+  ]
+}

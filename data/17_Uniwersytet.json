@@ -1,0 +1,123 @@
+{
+  "nazwa_linii": "17",
+  "opis_linii": "Kierunek: Uniwersytet",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Cmentarz Centralny"
+    ],
+    [
+      "1",
+      "Cmentarz Centr. II Brama"
+    ],
+    [
+      "2",
+      "Mazowiecka (pętla)"
+    ],
+    [
+      "3",
+      "Mazowiecka"
+    ],
+    [
+      "4",
+      "Fort IV n/ż"
+    ],
+    [
+      "5",
+      "Kociewska"
+    ],
+    [
+      "7",
+      "Kanałowa"
+    ],
+    [
+      "9",
+      "Dębowa Góra"
+    ],
+    [
+      "10",
+      "Batorego"
+    ],
+    [
+      "12",
+      "Polna"
+    ],
+    [
+      "14",
+      "Wielki Rów"
+    ],
+    [
+      "16",
+      "Kozacka"
+    ],
+    [
+      "17",
+      "Lotników"
+    ],
+    [
+      "19",
+      "Lecha"
+    ],
+    [
+      "20",
+      "Żwirki i Wigury"
+    ],
+    [
+      "22",
+      "Szpital Bielany"
+    ],
+    [
+      "24",
+      "św. Józefa"
+    ],
+    [
+      "26",
+      "Od Nowa"
+    ],
+    [
+      "27",
+      "Akademiki"
+    ],
+    [
+      "28",
+      "Aula UMK"
+    ],
+    [
+      "29",
+      "Okrężna"
+    ],
+    [
+      "31",
+      "Uniwersytet"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "08",
+      [
+        "40"
+      ]
+    ],
+    [
+      "14",
+      [
+        "08"
+      ]
+    ],
+    [
+      "15",
+      [
+        "20K"
+      ]
+    ],
+    [
+      "16",
+      [
+        "40"
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "nazwa_linii": "20",
+  "opis_linii": "Kierunek: Poznańska / Glinki",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Forteczna (pętla)"
+    ],
+    [
+      "1",
+      "Forteczna II n/ż"
+    ],
+    [
+      "1",
+      "Rybińskiego n/ż"
+    ],
+    [
+      "2",
+      "Strobanda (pętla)"
+    ],
+    [
+      "3",
+      "Grasera"
+    ],
+    [
+      "4",
+      "Hubego"
+    ],
+    [
+      "5",
+      "Freytaga"
+    ],
+    [
+      "6",
+      "Wiśniowieckiego"
+    ],
+    [
+      "9",
+      "Koniuchy"
+    ],
+    [
+      "10",
+      "Osiedle Tysiąclecia"
+    ],
+    [
+      "12",
+      "Lelewela"
+    ],
+    [
+      "14",
+      "Dekerta"
+    ],
+    [
+      "15",
+      "Legionów"
+    ],
+    [
+      "18",
+      "Aleja Solidarności"
+    ],
+    [
+      "21",
+      "Plac Rapackiego"
+    ],
+    [
+      "24",
+      "Plac Armii Krajowej"
+    ],
+    [
+      "25",
+      "Hallera"
+    ],
+    [
+      "27",
+      "Parkowa"
+    ],
+    [
+      "28",
+      "Poznańska (komisariat) n/ż"
+    ],
+    [
+      "29",
+      "Kluczyki n/ż"
+    ],
+    [
+      "30",
+      "Kluczyki Cmentarz"
+    ],
+    [
+      "30",
+      "Polmozbyt n/ż"
+    ],
+    [
+      "31",
+      "Kręta"
+    ],
+    [
+      "31",
+      "Stepowa n/ż"
+    ],
+    [
+      "32",
+      "Gniewkowska n/ż"
+    ],
+    [
+      "33",
+      "Osiedle Leśny Zakątek n/ż"
+    ],
+    [
+      "33",
+      "Baza Transportu n/ż"
+    ],
+    [
+      "34",
+      "Poznańska n/ż"
+    ],
+    [
+      "35",
+      "Poznańska-osiedle n/ż"
+    ],
+    [
+      "37",
+      "Glinki"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "51G"
+      ]
+    ],
+    [
+      "06",
+      [
+        "-"
+      ]
+    ],
+    [
+      "07",
+      [
+        "53G"
+      ]
+    ],
+    [
+      "08",
+      [
+        "53G"
+      ]
+    ],
+    [
+      "09",
+      [
+        "53G"
+      ]
+    ],
+    [
+      "10",
+      [
+        "-"
+      ]
+    ],
+    [
+      "11",
+      [
+        "53G"
+      ]
+    ],
+    [
+      "14",
+      [
+        "-"
+      ]
+    ],
+    [
+      "15",
+      [
+        "53G"
+      ]
+    ],
+    [
+      "16",
+      [
+        "-"
+      ]
+    ],
+    [
+      "20",
+      [
+        "06Ga"
+      ]
+    ],
+    [
+      "22",
+      [
+        "13Gad"
+      ]
+    ]
+  ]
+}

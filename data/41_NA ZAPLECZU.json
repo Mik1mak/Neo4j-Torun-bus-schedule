@@ -1,0 +1,120 @@
+{
+  "nazwa_linii": "41",
+  "opis_linii": "Kierunek: NA ZAPLECZU",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Dworzec Wschodni"
+    ],
+    [
+      "2",
+      "Wschodnia"
+    ],
+    [
+      "3",
+      "Donimirskiego"
+    ],
+    [
+      "4",
+      "Rubinkowo Centrum"
+    ],
+    [
+      "6",
+      "Manhattan"
+    ],
+    [
+      "7",
+      "Przybyłów"
+    ],
+    [
+      "9",
+      "Niesiołowskiego n/ż"
+    ],
+    [
+      "10",
+      "Bukowa"
+    ],
+    [
+      "12",
+      "Chrzanowskiego"
+    ],
+    [
+      "13",
+      "Chrzanowskiego II"
+    ],
+    [
+      "14",
+      "Os. Pancernych"
+    ],
+    [
+      "15",
+      "Kołowa"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "04",
+      [
+        "31"
+      ]
+    ],
+    [
+      "05",
+      [
+        "28"
+      ]
+    ],
+    [
+      "06",
+      [
+        "28"
+      ]
+    ],
+    [
+      "07",
+      [
+        "28"
+      ]
+    ],
+    [
+      "08",
+      [
+        "55"
+      ]
+    ],
+    [
+      "11",
+      [
+        "40"
+      ]
+    ],
+    [
+      "13",
+      [
+        "10",
+        "55"
+      ]
+    ],
+    [
+      "14",
+      [
+        "50"
+      ]
+    ],
+    [
+      "15",
+      [
+        "50"
+      ]
+    ],
+    [
+      "21",
+      [
+        "27ad"
+      ]
+    ]
+  ]
+}

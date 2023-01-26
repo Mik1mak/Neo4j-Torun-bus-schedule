@@ -1,0 +1,164 @@
+{
+  "nazwa_linii": "25",
+  "opis_linii": "Kierunek: Uniwersytet",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Kolankowskiego"
+    ],
+    [
+      "1",
+      "Witosa"
+    ],
+    [
+      "2",
+      "Ligi Polskiej"
+    ],
+    [
+      "3",
+      "Wyszyńskiego"
+    ],
+    [
+      "5",
+      "Ślaskiego"
+    ],
+    [
+      "7",
+      "Przybyłów"
+    ],
+    [
+      "11",
+      "Bukowa"
+    ],
+    [
+      "12",
+      "Elana B n/ż"
+    ],
+    [
+      "13",
+      "Elana A n/ż"
+    ],
+    [
+      "14",
+      "Przychodnia"
+    ],
+    [
+      "16",
+      "Tofama"
+    ],
+    [
+      "19",
+      "Chrobrego n/ż"
+    ],
+    [
+      "20",
+      "Urząd Celny n/ż"
+    ],
+    [
+      "23",
+      "Sczanieckiego"
+    ],
+    [
+      "25",
+      "Popiela"
+    ],
+    [
+      "27",
+      "Wybickiego"
+    ],
+    [
+      "29",
+      "Hala Sportowa"
+    ],
+    [
+      "31",
+      "Fałata"
+    ],
+    [
+      "32",
+      "Od Nowa"
+    ],
+    [
+      "33",
+      "Akademiki"
+    ],
+    [
+      "34",
+      "Aula UMK"
+    ],
+    [
+      "35",
+      "Okrężna"
+    ],
+    [
+      "37",
+      "Uniwersytet"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "18",
+        "45"
+      ]
+    ],
+    [
+      "06",
+      [
+        "19",
+        "39"
+      ]
+    ],
+    [
+      "07",
+      [
+        "09",
+        "46"
+      ]
+    ],
+    [
+      "08",
+      [
+        "12z",
+        "42z"
+      ]
+    ],
+    [
+      "13",
+      [
+        "19",
+        "59"
+      ]
+    ],
+    [
+      "14",
+      [
+        "26",
+        "57"
+      ]
+    ],
+    [
+      "15",
+      [
+        "22"
+      ]
+    ],
+    [
+      "16",
+      [
+        "00",
+        "50"
+      ]
+    ],
+    [
+      "17",
+      [
+        "32z"
+      ]
+    ]
+  ]
+}

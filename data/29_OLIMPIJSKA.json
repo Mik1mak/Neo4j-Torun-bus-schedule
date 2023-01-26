@@ -1,0 +1,294 @@
+{
+  "nazwa_linii": "29",
+  "opis_linii": "Kierunek: OLIMPIJSKA",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Szubińska"
+    ],
+    [
+      "0",
+      "Bliska n/ż"
+    ],
+    [
+      "2",
+      "Gniewkowska n/ż"
+    ],
+    [
+      "3",
+      "Stepowa n/ż"
+    ],
+    [
+      "4",
+      "Kręta"
+    ],
+    [
+      "4",
+      "Polmozbyt n/ż"
+    ],
+    [
+      "5",
+      "Kluczyki Cmentarz"
+    ],
+    [
+      "5",
+      "Kluczyki n/ż"
+    ],
+    [
+      "6",
+      "Poznańska (komisariat) n/ż"
+    ],
+    [
+      "7",
+      "Parkowa"
+    ],
+    [
+      "9",
+      "Drzymały"
+    ],
+    [
+      "12",
+      "Letnia"
+    ],
+    [
+      "13",
+      "63. Pułku Piechoty"
+    ],
+    [
+      "14",
+      "Biała"
+    ],
+    [
+      "15",
+      "Brązowa"
+    ],
+    [
+      "17",
+      "Okólna"
+    ],
+    [
+      "20",
+      "Andersa n/ż"
+    ],
+    [
+      "22",
+      "Dandelskiego"
+    ],
+    [
+      "25",
+      "Zakole"
+    ],
+    [
+      "26",
+      "Strzałowa II n/ż"
+    ],
+    [
+      "27",
+      "Telimeny"
+    ],
+    [
+      "28",
+      "Grzybowa n/ż"
+    ],
+    [
+      "31",
+      "Szkoła n/ż"
+    ],
+    [
+      "32",
+      "Skrzetuskiego n/ż"
+    ],
+    [
+      "33",
+      "Działki Rudak"
+    ],
+    [
+      "34",
+      "Otłoczyńska n/ż"
+    ],
+    [
+      "35",
+      "Rypińska"
+    ],
+    [
+      "39",
+      "Plac Daszyńskiego"
+    ],
+    [
+      "40",
+      "Atrium Copernicus"
+    ],
+    [
+      "41",
+      "Dworzec Wschodni"
+    ],
+    [
+      "42",
+      "Dworzec Wschodni"
+    ],
+    [
+      "44",
+      "Wschodnia"
+    ],
+    [
+      "46",
+      "Donimirskiego"
+    ],
+    [
+      "47",
+      "Rubinkowo Centrum"
+    ],
+    [
+      "49",
+      "Manhattan"
+    ],
+    [
+      "50",
+      "Przybyłów"
+    ],
+    [
+      "52",
+      "Ślaskiego"
+    ],
+    [
+      "54",
+      "Wyszyńskiego"
+    ],
+    [
+      "55",
+      "Ligi Polskiej"
+    ],
+    [
+      "56",
+      "Kosynierów Kośc."
+    ],
+    [
+      "58",
+      "Olimpijska"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "00",
+        "44"
+      ]
+    ],
+    [
+      "06",
+      [
+        "14",
+        "42"
+      ]
+    ],
+    [
+      "07",
+      [
+        "12",
+        "42"
+      ]
+    ],
+    [
+      "08",
+      [
+        "17",
+        "37z"
+      ]
+    ],
+    [
+      "09",
+      [
+        "02",
+        "47"
+      ]
+    ],
+    [
+      "10",
+      [
+        "32"
+      ]
+    ],
+    [
+      "11",
+      [
+        "17"
+      ]
+    ],
+    [
+      "12",
+      [
+        "02",
+        "49"
+      ]
+    ],
+    [
+      "13",
+      [
+        "19",
+        "49"
+      ]
+    ],
+    [
+      "14",
+      [
+        "19",
+        "50o"
+      ]
+    ],
+    [
+      "15",
+      [
+        "19",
+        "49"
+      ]
+    ],
+    [
+      "16",
+      [
+        "10",
+        "40"
+      ]
+    ],
+    [
+      "17",
+      [
+        "17"
+      ]
+    ],
+    [
+      "18",
+      [
+        "02",
+        "47a"
+      ]
+    ],
+    [
+      "19",
+      [
+        "40a"
+      ]
+    ],
+    [
+      "20",
+      [
+        "40a"
+      ]
+    ],
+    [
+      "21",
+      [
+        "40ad"
+      ]
+    ],
+    [
+      "22",
+      [
+        "50za"
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "nazwa_linii": "37",
+  "opis_linii": "Kierunek: Gronowo",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "",
+      "S T R E F A  I"
+    ],
+    [
+      "0",
+      "Plac św. Katarzyny"
+    ],
+    [
+      "3",
+      "Aleja Solidarności"
+    ],
+    [
+      "6",
+      "Przy Kaszowniku"
+    ],
+    [
+      "8",
+      "Garbaty Mostek"
+    ],
+    [
+      "9",
+      "Olbrachta"
+    ],
+    [
+      "11",
+      "Dworzec Wschodni"
+    ],
+    [
+      "14",
+      "Tofama"
+    ],
+    [
+      "15",
+      "Przychodnia"
+    ],
+    [
+      "17",
+      "Elana B n/ż"
+    ],
+    [
+      "18",
+      "Bukowa"
+    ],
+    [
+      "19",
+      "Chrzanowskiego"
+    ],
+    [
+      "21",
+      "Barwna"
+    ],
+    [
+      "22",
+      "Szczecińska"
+    ],
+    [
+      "23",
+      "Suwalska"
+    ],
+    [
+      "25",
+      "Cegielnia"
+    ],
+    [
+      "26",
+      "Bajeczna"
+    ],
+    [
+      "27",
+      "Nad Rzeczką"
+    ],
+    [
+      "28",
+      "Meprozet"
+    ],
+    [
+      "29",
+      "Wapienna"
+    ],
+    [
+      "32",
+      "Kresowa"
+    ],
+    [
+      "33",
+      "Toruńska"
+    ],
+    [
+      "33",
+      "S T R E F A  II - gr. adm."
+    ],
+    [
+      "35",
+      "Grębocin"
+    ],
+    [
+      "37",
+      "Kolonia Papowska"
+    ],
+    [
+      "40",
+      "Grębocin"
+    ],
+    [
+      "41",
+      "Ośrodek Zdrowia"
+    ],
+    [
+      "43",
+      "Ogrodnik n/ż"
+    ],
+    [
+      "45",
+      "Rogówko"
+    ],
+    [
+      "48",
+      "Brzeźno"
+    ],
+    [
+      "52",
+      "Gronowo"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "46P"
+      ]
+    ],
+    [
+      "07",
+      [
+        "45"
+      ]
+    ],
+    [
+      "10",
+      [
+        "05G"
+      ]
+    ],
+    [
+      "11",
+      [
+        "50"
+      ]
+    ],
+    [
+      "12",
+      [
+        "25"
+      ]
+    ],
+    [
+      "14",
+      [
+        "05x"
+      ]
+    ]
+  ]
+}

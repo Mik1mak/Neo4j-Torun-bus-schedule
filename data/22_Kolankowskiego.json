@@ -1,0 +1,147 @@
+{
+  "nazwa_linii": "22",
+  "opis_linii": "Kierunek: Kolankowskiego",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Dworzec Główny"
+    ],
+    [
+      "1",
+      "Plac Armii Krajowej"
+    ],
+    [
+      "4",
+      "Plac Rapackiego"
+    ],
+    [
+      "7",
+      "Aleja Solidarności"
+    ],
+    [
+      "9",
+      "Odrodzenia"
+    ],
+    [
+      "11",
+      "Przy Kaszowniku"
+    ],
+    [
+      "13",
+      "Garbaty Mostek"
+    ],
+    [
+      "15",
+      "Dworzec Wschodni"
+    ],
+    [
+      "17",
+      "Plac Daszyńskiego"
+    ],
+    [
+      "19",
+      "Plac Daszyńskiego"
+    ],
+    [
+      "20",
+      "Rydygiera"
+    ],
+    [
+      "22",
+      "Jamontta"
+    ],
+    [
+      "24",
+      "Ślaskiego"
+    ],
+    [
+      "26",
+      "Wyszyńskiego"
+    ],
+    [
+      "27",
+      "Ligi Polskiej"
+    ],
+    [
+      "28",
+      "Witosa"
+    ],
+    [
+      "30",
+      "Kolankowskiego"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "04",
+      [
+        "56"
+      ]
+    ],
+    [
+      "05",
+      [
+        "16",
+        "56"
+      ]
+    ],
+    [
+      "06",
+      [
+        "16",
+        "35",
+        "55"
+      ]
+    ],
+    [
+      "07",
+      [
+        "14",
+        "34",
+        "54z"
+      ]
+    ],
+    [
+      "08",
+      [
+        "15z",
+        "35z"
+      ]
+    ],
+    [
+      "13",
+      [
+        "05",
+        "35",
+        "55"
+      ]
+    ],
+    [
+      "14",
+      [
+        "15",
+        "35",
+        "55"
+      ]
+    ],
+    [
+      "15",
+      [
+        "15",
+        "35",
+        "55"
+      ]
+    ],
+    [
+      "16",
+      [
+        "15",
+        "35",
+        "55z"
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "nazwa_linii": "45",
+  "opis_linii": "Kierunek: Obrowo przez Lubicz",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "",
+      "S T R E F A  I"
+    ],
+    [
+      "0",
+      "Rubinkowo II"
+    ],
+    [
+      "3",
+      "Wyszyńskiego"
+    ],
+    [
+      "4",
+      "Ligi Polskiej"
+    ],
+    [
+      "5",
+      "Kosynierów Kośc."
+    ],
+    [
+      "6",
+      "Olimpijska"
+    ],
+    [
+      "8",
+      "Kusocińskiego n/ż"
+    ],
+    [
+      "9",
+      "Słupska n/ż"
+    ],
+    [
+      "9",
+      "S T R E F A  II - gr. adm."
+    ],
+    [
+      "15",
+      "Lubicz Dolny"
+    ],
+    [
+      "17",
+      "Lubicz Górny"
+    ],
+    [
+      "20",
+      "Brzozówka n/ż"
+    ],
+    [
+      "23",
+      "Głogowo n/ż"
+    ],
+    [
+      "26",
+      "Dobrzejewice n/ż"
+    ],
+    [
+      "27",
+      "Dobrzejewice-staw n/ż"
+    ],
+    [
+      "29",
+      "Zawały I n/ż"
+    ],
+    [
+      "32",
+      "Kawęczyn n/ż"
+    ],
+    [
+      "35",
+      "Obrowo"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "04",
+      [
+        "13",
+        "38"
+      ]
+    ],
+    [
+      "05",
+      [
+        "08S",
+        "55"
+      ]
+    ],
+    [
+      "06",
+      [
+        "15S"
+      ]
+    ],
+    [
+      "07",
+      [
+        "22"
+      ]
+    ],
+    [
+      "08",
+      [
+        "50"
+      ]
+    ],
+    [
+      "12",
+      [
+        "00"
+      ]
+    ],
+    [
+      "14",
+      [
+        "00"
+      ]
+    ],
+    [
+      "15",
+      [
+        "35"
+      ]
+    ],
+    [
+      "16",
+      [
+        "10S"
+      ]
+    ],
+    [
+      "17",
+      [
+        "18"
+      ]
+    ],
+    [
+      "18",
+      [
+        "50"
+      ]
+    ],
+    [
+      "21",
+      [
+        "20"
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "nazwa_linii": "14",
+  "opis_linii": "Kierunek: OKÓLNA",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Cmentarz Centralny"
+    ],
+    [
+      "1",
+      "Cmentarz Centr. II Brama"
+    ],
+    [
+      "2",
+      "Mazowiecka (pętla)"
+    ],
+    [
+      "2",
+      "Mazowiecka"
+    ],
+    [
+      "3",
+      "Fort IV n/ż"
+    ],
+    [
+      "4",
+      "Kociewska"
+    ],
+    [
+      "6",
+      "Kanałowa"
+    ],
+    [
+      "8",
+      "Dębowa Góra"
+    ],
+    [
+      "9",
+      "Batorego"
+    ],
+    [
+      "11",
+      "Polna"
+    ],
+    [
+      "13",
+      "Wielki Rów"
+    ],
+    [
+      "14",
+      "Kozacka"
+    ],
+    [
+      "16",
+      "Sczanieckiego"
+    ],
+    [
+      "17",
+      "Kościuszki"
+    ],
+    [
+      "19",
+      "Warneńczyka"
+    ],
+    [
+      "22",
+      "Aleja Solidarności"
+    ],
+    [
+      "25",
+      "Plac Rapackiego"
+    ],
+    [
+      "28",
+      "Plac Armii Krajowej"
+    ],
+    [
+      "29",
+      "Dworzec Główny"
+    ],
+    [
+      "31",
+      "Strzałowa"
+    ],
+    [
+      "32",
+      "Plebiscytowa"
+    ],
+    [
+      "33",
+      "Kniaziewicza"
+    ],
+    [
+      "34",
+      "Brązowa"
+    ],
+    [
+      "36",
+      "Okólna"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "09",
+      [
+        "02",
+        "47"
+      ]
+    ],
+    [
+      "10",
+      [
+        "32"
+      ]
+    ],
+    [
+      "11",
+      [
+        "17"
+      ]
+    ],
+    [
+      "12",
+      [
+        "02",
+        "47"
+      ]
+    ],
+    [
+      "13",
+      [
+        "23",
+        "53"
+      ]
+    ],
+    [
+      "14",
+      [
+        "22K",
+        "53"
+      ]
+    ],
+    [
+      "15",
+      [
+        "23",
+        "53"
+      ]
+    ],
+    [
+      "16",
+      [
+        "32"
+      ]
+    ],
+    [
+      "17",
+      [
+        "17",
+        "52z"
+      ]
+    ],
+    [
+      "18",
+      [
+        "02",
+        "47a"
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "nazwa_linii": "45",
+  "opis_linii": "Kierunek: Rubinkowo II przez Lubicz",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "",
+      "S T R E F A  II"
+    ],
+    [
+      "0",
+      "Obrowo"
+    ],
+    [
+      "2",
+      "Kawęczyn n/ż"
+    ],
+    [
+      "5",
+      "Zawały I n/ż"
+    ],
+    [
+      "7",
+      "Dobrzejewice-staw n/ż"
+    ],
+    [
+      "8",
+      "Dobrzejewice n/ż"
+    ],
+    [
+      "11",
+      "Głogowo n/ż"
+    ],
+    [
+      "11",
+      "Szembekowo"
+    ],
+    [
+      "12",
+      "Szembekowo-skrz. n/ż"
+    ],
+    [
+      "12",
+      "Szembekowo-OSP n/ż"
+    ],
+    [
+      "12",
+      "Szembekowo-Osiedlowa n/ż"
+    ],
+    [
+      "13",
+      "Brzozówka-wieś n/ż"
+    ],
+    [
+      "13",
+      "Brzozówka-Olszynowa n/ż"
+    ],
+    [
+      "14",
+      "Brzozówka - sklep n/ż"
+    ],
+    [
+      "14",
+      "Brzozówka n/ż"
+    ],
+    [
+      "17",
+      "Lubicz Górny"
+    ],
+    [
+      "19",
+      "Lubicz Dolny"
+    ],
+    [
+      "23",
+      "Płocka n/ż"
+    ],
+    [
+      "23",
+      "S T R E F A  I - gr. adm."
+    ],
+    [
+      "24",
+      "Słupska n/ż"
+    ],
+    [
+      "26",
+      "Kusocińskiego n/ż"
+    ],
+    [
+      "27",
+      "Olimpijska"
+    ],
+    [
+      "28",
+      "Kosynierów Kośc."
+    ],
+    [
+      "30",
+      "Ligi Polskiej"
+    ],
+    [
+      "33",
+      "Rubinkowo II"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "-"
+      ]
+    ],
+    [
+      "06",
+      [
+        "10",
+        "30"
+      ]
+    ],
+    [
+      "07",
+      [
+        "45"
+      ]
+    ],
+    [
+      "10",
+      [
+        "-"
+      ]
+    ],
+    [
+      "14",
+      [
+        "15"
+      ]
+    ],
+    [
+      "15",
+      [
+        "45"
+      ]
+    ],
+    [
+      "17",
+      [
+        "20"
+      ]
+    ],
+    [
+      "19",
+      [
+        "05"
+      ]
+    ],
+    [
+      "20",
+      [
+        "40"
+      ]
+    ],
+    [
+      "23",
+      [
+        "22"
+      ]
+    ]
+  ]
+}

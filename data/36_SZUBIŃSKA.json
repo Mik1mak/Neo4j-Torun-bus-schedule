@@ -1,0 +1,252 @@
+{
+  "nazwa_linii": "36",
+  "opis_linii": "Kierunek: SZUBIŃSKA",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "",
+      "S T R E F A  II"
+    ],
+    [
+      "0",
+      "Rozgarty-Stara Szkoła"
+    ],
+    [
+      "1",
+      "Rozgarty-Leśna"
+    ],
+    [
+      "2",
+      "Rozgarty-Wróblowa"
+    ],
+    [
+      "3",
+      "Przysiek-Błotka"
+    ],
+    [
+      "4",
+      "Przysiek-Szkoła"
+    ],
+    [
+      "6",
+      "Przysiek"
+    ],
+    [
+      "7",
+      "S T R E F A  I - gr. adm."
+    ],
+    [
+      "7",
+      "Port Drzewny"
+    ],
+    [
+      "8",
+      "Starotoruńska"
+    ],
+    [
+      "9",
+      "Centrum Handlowe-Zachód"
+    ],
+    [
+      "10",
+      "Oczyszczalnia n/ż"
+    ],
+    [
+      "11",
+      "Szosa Bydgoska"
+    ],
+    [
+      "13",
+      "Plac Skalskiego"
+    ],
+    [
+      "14",
+      "Łukasiewicza"
+    ],
+    [
+      "15",
+      "Okrężna"
+    ],
+    [
+      "16",
+      "Aula UMK"
+    ],
+    [
+      "17",
+      "Akademiki"
+    ],
+    [
+      "18",
+      "Od Nowa"
+    ],
+    [
+      "20",
+      "Fałata"
+    ],
+    [
+      "23",
+      "Kraszewskiego"
+    ],
+    [
+      "25",
+      "Plac Rapackiego"
+    ],
+    [
+      "28",
+      "Plac Armii Krajowej"
+    ],
+    [
+      "29",
+      "Dworzec Główny"
+    ],
+    [
+      "31",
+      "Strzałowa"
+    ],
+    [
+      "32",
+      "Stawki"
+    ],
+    [
+      "34",
+      "Dandelskiego"
+    ],
+    [
+      "35",
+      "Brązowa"
+    ],
+    [
+      "36",
+      "Kniaziewicza"
+    ],
+    [
+      "37",
+      "Biała"
+    ],
+    [
+      "38",
+      "63. Pułku Piechoty"
+    ],
+    [
+      "40",
+      "Letnia"
+    ],
+    [
+      "41",
+      "Drzymały"
+    ],
+    [
+      "42",
+      "Paderewskiego"
+    ],
+    [
+      "43",
+      "Kluczyki n/ż"
+    ],
+    [
+      "44",
+      "Kluczyki Cmentarz"
+    ],
+    [
+      "44",
+      "Polmozbyt n/ż"
+    ],
+    [
+      "45",
+      "Kręta"
+    ],
+    [
+      "46",
+      "Stepowa n/ż"
+    ],
+    [
+      "47",
+      "Gniewkowska n/ż"
+    ],
+    [
+      "48",
+      "Bliska n/ż"
+    ],
+    [
+      "49",
+      "Szubińska"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "08"
+      ]
+    ],
+    [
+      "06",
+      [
+        "08",
+        "37"
+      ]
+    ],
+    [
+      "07",
+      [
+        "05"
+      ]
+    ],
+    [
+      "09",
+      [
+        "22"
+      ]
+    ],
+    [
+      "12",
+      [
+        "02"
+      ]
+    ],
+    [
+      "13",
+      [
+        "-"
+      ]
+    ],
+    [
+      "14",
+      [
+        "27"
+      ]
+    ],
+    [
+      "15",
+      [
+        "27"
+      ]
+    ],
+    [
+      "16",
+      [
+        "27"
+      ]
+    ],
+    [
+      "17",
+      [
+        "27"
+      ]
+    ],
+    [
+      "19",
+      [
+        "57a"
+      ]
+    ],
+    [
+      "23",
+      [
+        "11za"
+      ]
+    ]
+  ]
+}

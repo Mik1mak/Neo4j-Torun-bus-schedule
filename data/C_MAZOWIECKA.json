@@ -1,0 +1,153 @@
+{
+  "nazwa_linii": "C",
+  "opis_linii": "Kierunek: MAZOWIECKA",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Bielawy"
+    ],
+    [
+      "3",
+      "Witosa"
+    ],
+    [
+      "4",
+      "Ligi Polskiej"
+    ],
+    [
+      "6",
+      "Wyszyńskiego"
+    ],
+    [
+      "7",
+      "Ślaskiego"
+    ],
+    [
+      "9",
+      "Przybyłów"
+    ],
+    [
+      "10",
+      "Manhattan"
+    ],
+    [
+      "12",
+      "Rubinkowo Centrum"
+    ],
+    [
+      "13",
+      "Donimirskiego"
+    ],
+    [
+      "15",
+      "Wschodnia"
+    ],
+    [
+      "17",
+      "Dworzec Wschodni"
+    ],
+    [
+      "19",
+      "Świętopełka"
+    ],
+    [
+      "21",
+      "Kościuszki"
+    ],
+    [
+      "22",
+      "Sczanieckiego"
+    ],
+    [
+      "24",
+      "Kozacka"
+    ],
+    [
+      "26",
+      "Wielki Rów"
+    ],
+    [
+      "28",
+      "Polna"
+    ],
+    [
+      "29",
+      "Cmentarz Centralny"
+    ],
+    [
+      "30",
+      "Cmentarz Centr. II Brama"
+    ],
+    [
+      "31",
+      "Mazowiecka (pętla)"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "08",
+      [
+        "45"
+      ]
+    ],
+    [
+      "09",
+      [
+        "30b"
+      ]
+    ],
+    [
+      "10",
+      [
+        "15"
+      ]
+    ],
+    [
+      "11",
+      [
+        "00b",
+        "45"
+      ]
+    ],
+    [
+      "12",
+      [
+        "30b"
+      ]
+    ],
+    [
+      "13",
+      [
+        "15"
+      ]
+    ],
+    [
+      "14",
+      [
+        "00b",
+        "45"
+      ]
+    ],
+    [
+      "15",
+      [
+        "30b"
+      ]
+    ],
+    [
+      "16",
+      [
+        "15"
+      ]
+    ],
+    [
+      "17",
+      [
+        "00b"
+      ]
+    ]
+  ]
+}

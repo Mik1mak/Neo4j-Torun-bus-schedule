@@ -1,0 +1,190 @@
+{
+  "nazwa_linii": "46",
+  "opis_linii": "Kierunek: Obrowo p. Osiek",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "",
+      "S T R E F A  I"
+    ],
+    [
+      "0",
+      "Rubinkowo II"
+    ],
+    [
+      "3",
+      "Wyszyńskiego"
+    ],
+    [
+      "4",
+      "Ligi Polskiej"
+    ],
+    [
+      "6",
+      "Księżycowa n/ż"
+    ],
+    [
+      "7",
+      "Dożynkowa"
+    ],
+    [
+      "8",
+      "Kogucia n/ż"
+    ],
+    [
+      "9",
+      "Drwęca n/ż"
+    ],
+    [
+      "9",
+      "S T R E F A  II - gr. adm."
+    ],
+    [
+      "10",
+      "Pomorska n/ż"
+    ],
+    [
+      "12",
+      "Złotoria I n/ż"
+    ],
+    [
+      "13",
+      "Złotoria II n/ż"
+    ],
+    [
+      "14",
+      "Grabowiec I n/ż"
+    ],
+    [
+      "15",
+      "Grabowiec II n/ż"
+    ],
+    [
+      "16",
+      "Grabowiec-Wieś n/ż"
+    ],
+    [
+      "18",
+      "Silno I n/ż"
+    ],
+    [
+      "19",
+      "Silno II n/ż"
+    ],
+    [
+      "20",
+      "Silno III n/ż"
+    ],
+    [
+      "22",
+      "Silno IV n/ż"
+    ],
+    [
+      "24",
+      "Dzikowo n/ż"
+    ],
+    [
+      "26",
+      "Dzikowo skrz. n/ż"
+    ],
+    [
+      "28",
+      "Osiek n/ż"
+    ],
+    [
+      "29",
+      "Osiek-Szkoła n/ż"
+    ],
+    [
+      "31",
+      "Osiek-Siciny II n/ż"
+    ],
+    [
+      "33",
+      "Osiek-Siciny I n/ż"
+    ],
+    [
+      "35",
+      "Sąsieczno n/ż"
+    ],
+    [
+      "36",
+      "Kolonia Obrowska n/ż"
+    ],
+    [
+      "38",
+      "Obrowo-Osiedle n/ż"
+    ],
+    [
+      "41",
+      "Obrowo"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "30",
+        "50",
+        "59o"
+      ]
+    ],
+    [
+      "07",
+      [
+        "00"
+      ]
+    ],
+    [
+      "10",
+      [
+        "20"
+      ]
+    ],
+    [
+      "13",
+      [
+        "30"
+      ]
+    ],
+    [
+      "14",
+      [
+        "30"
+      ]
+    ],
+    [
+      "15",
+      [
+        "00"
+      ]
+    ],
+    [
+      "16",
+      [
+        "05",
+        "35"
+      ]
+    ],
+    [
+      "18",
+      [
+        "20"
+      ]
+    ],
+    [
+      "20",
+      [
+        "00"
+      ]
+    ],
+    [
+      "22",
+      [
+        "43"
+      ]
+    ]
+  ]
+}

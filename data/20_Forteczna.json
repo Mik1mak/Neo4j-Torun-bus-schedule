@@ -1,0 +1,245 @@
+{
+  "nazwa_linii": "20",
+  "opis_linii": "Kierunek: Forteczna",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Glinki"
+    ],
+    [
+      "0",
+      "Poznańska (p)"
+    ],
+    [
+      "1",
+      "Poznańska-osiedle"
+    ],
+    [
+      "2",
+      "Poznańska n/ż"
+    ],
+    [
+      "3",
+      "Baza Transportu n/ż"
+    ],
+    [
+      "3",
+      "Osiedle Leśny Zakątek n/ż"
+    ],
+    [
+      "4",
+      "Gniewkowska n/ż"
+    ],
+    [
+      "5",
+      "Stepowa n/ż"
+    ],
+    [
+      "6",
+      "Kręta"
+    ],
+    [
+      "7",
+      "Polmozbyt n/ż"
+    ],
+    [
+      "7",
+      "Kluczyki Cmentarz"
+    ],
+    [
+      "8",
+      "Kluczyki n/ż"
+    ],
+    [
+      "9",
+      "Poznańska (komisariat) n/ż"
+    ],
+    [
+      "10",
+      "Parkowa"
+    ],
+    [
+      "11",
+      "Hallera"
+    ],
+    [
+      "13",
+      "Plac Armii Krajowej"
+    ],
+    [
+      "16",
+      "Plac Rapackiego"
+    ],
+    [
+      "19",
+      "Aleja Solidarności"
+    ],
+    [
+      "21",
+      "Legionów"
+    ],
+    [
+      "23",
+      "Dekerta"
+    ],
+    [
+      "25",
+      "Lelewela"
+    ],
+    [
+      "27",
+      "Osiedle Tysiąclecia"
+    ],
+    [
+      "29",
+      "Koniuchy"
+    ],
+    [
+      "32",
+      "Wiśniowieckiego"
+    ],
+    [
+      "33",
+      "Freytaga"
+    ],
+    [
+      "34",
+      "Hubego"
+    ],
+    [
+      "35",
+      "Grasera"
+    ],
+    [
+      "36",
+      "Strobanda"
+    ],
+    [
+      "37",
+      "Forteczna II n/ż"
+    ],
+    [
+      "38",
+      "Forteczna (pętla)"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "04F",
+        "59"
+      ]
+    ],
+    [
+      "06",
+      [
+        "36",
+        "54F"
+      ]
+    ],
+    [
+      "07",
+      [
+        "35"
+      ]
+    ],
+    [
+      "08",
+      [
+        "35"
+      ]
+    ],
+    [
+      "09",
+      [
+        "35"
+      ]
+    ],
+    [
+      "10",
+      [
+        "35"
+      ]
+    ],
+    [
+      "11",
+      [
+        "35"
+      ]
+    ],
+    [
+      "12",
+      [
+        "35"
+      ]
+    ],
+    [
+      "13",
+      [
+        "35"
+      ]
+    ],
+    [
+      "14",
+      [
+        "35"
+      ]
+    ],
+    [
+      "15",
+      [
+        "03F"
+      ]
+    ],
+    [
+      "16",
+      [
+        "08",
+        "36"
+      ]
+    ],
+    [
+      "17",
+      [
+        "29"
+      ]
+    ],
+    [
+      "18",
+      [
+        "05",
+        "45"
+      ]
+    ],
+    [
+      "19",
+      [
+        "-"
+      ]
+    ],
+    [
+      "20",
+      [
+        "06ad",
+        "45a"
+      ]
+    ],
+    [
+      "21",
+      [
+        "25adF"
+      ]
+    ],
+    [
+      "22",
+      [
+        "04a",
+        "49ad"
+      ]
+    ]
+  ]
+}

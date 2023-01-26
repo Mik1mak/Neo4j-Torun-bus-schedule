@@ -1,0 +1,116 @@
+{
+  "nazwa_linii": "39",
+  "opis_linii": "Kierunek: RUBINKOWO II",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Nad Strugą"
+    ],
+    [
+      "2",
+      "Bajeczna"
+    ],
+    [
+      "4",
+      "EC Grębocin"
+    ],
+    [
+      "5",
+      "Cegielnia"
+    ],
+    [
+      "7",
+      "Suwalska"
+    ],
+    [
+      "9",
+      "Krynicka"
+    ],
+    [
+      "11",
+      "Ostrołęcka"
+    ],
+    [
+      "12",
+      "Szczecińska"
+    ],
+    [
+      "13",
+      "Szczecińska"
+    ],
+    [
+      "15",
+      "Barwna"
+    ],
+    [
+      "18",
+      "Rubinkowo II"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "07",
+      [
+        "30RE"
+      ]
+    ],
+    [
+      "08",
+      [
+        "20RE"
+      ]
+    ],
+    [
+      "09",
+      [
+        "30RE"
+      ]
+    ],
+    [
+      "10",
+      [
+        "30RE"
+      ]
+    ],
+    [
+      "11",
+      [
+        "20R"
+      ]
+    ],
+    [
+      "12",
+      [
+        "10R"
+      ]
+    ],
+    [
+      "13",
+      [
+        "00R"
+      ]
+    ],
+    [
+      "14",
+      [
+        "05R"
+      ]
+    ],
+    [
+      "15",
+      [
+        "05R",
+        "55R"
+      ]
+    ],
+    [
+      "16",
+      [
+        "35R"
+      ]
+    ]
+  ]
+}

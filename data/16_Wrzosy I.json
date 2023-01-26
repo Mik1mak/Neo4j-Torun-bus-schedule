@@ -1,0 +1,178 @@
+{
+  "nazwa_linii": "16",
+  "opis_linii": "Kierunek: Wrzosy I",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Olimpijska"
+    ],
+    [
+      "1",
+      "Kosynierów Kośc."
+    ],
+    [
+      "2",
+      "Ligi Polskiej"
+    ],
+    [
+      "3",
+      "Wyszyńskiego"
+    ],
+    [
+      "5",
+      "Ślaskiego"
+    ],
+    [
+      "7",
+      "Przybyłów"
+    ],
+    [
+      "8",
+      "Manhattan"
+    ],
+    [
+      "10",
+      "Rubinkowo Centrum"
+    ],
+    [
+      "11",
+      "Donimirskiego"
+    ],
+    [
+      "13",
+      "Wschodnia"
+    ],
+    [
+      "15",
+      "Tofama"
+    ],
+    [
+      "17",
+      "Przychodnia"
+    ],
+    [
+      "19",
+      "Hutowo n/ż"
+    ],
+    [
+      "21",
+      "Kanałowa"
+    ],
+    [
+      "23",
+      "Dębowa Góra"
+    ],
+    [
+      "24",
+      "Batorego"
+    ],
+    [
+      "26",
+      "Polna"
+    ],
+    [
+      "27",
+      "Wielki Rów"
+    ],
+    [
+      "29",
+      "Koniuchy"
+    ],
+    [
+      "33",
+      "Dworzec Północny n/ż"
+    ],
+    [
+      "34",
+      "św. Antoniego"
+    ],
+    [
+      "35",
+      "Lisia"
+    ],
+    [
+      "36",
+      "Zagonowa"
+    ],
+    [
+      "37",
+      "Wrzosy I"
+    ],
+    [
+      "38",
+      "Wrzosy I (pętla)"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "00",
+        "29",
+        "55"
+      ]
+    ],
+    [
+      "06",
+      [
+        "20",
+        "52"
+      ]
+    ],
+    [
+      "07",
+      [
+        "17",
+        "55"
+      ]
+    ],
+    [
+      "08",
+      [
+        "20"
+      ]
+    ],
+    [
+      "09",
+      [
+        "00"
+      ]
+    ],
+    [
+      "13",
+      [
+        "18",
+        "53"
+      ]
+    ],
+    [
+      "14",
+      [
+        "20",
+        "53"
+      ]
+    ],
+    [
+      "15",
+      [
+        "35"
+      ]
+    ],
+    [
+      "16",
+      [
+        "00",
+        "40"
+      ]
+    ],
+    [
+      "17",
+      [
+        "10"
+      ]
+    ]
+  ]
+}

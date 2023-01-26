@@ -1,0 +1,181 @@
+{
+  "nazwa_linii": "31",
+  "opis_linii": "Kierunek: Kolankowskiego",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Barbarka"
+    ],
+    [
+      "1",
+      "Przysiecka n/ż"
+    ],
+    [
+      "4",
+      "os. Leśne - Polana n/ż"
+    ],
+    [
+      "6",
+      "Wrzosy I"
+    ],
+    [
+      "7",
+      "Zagonowa"
+    ],
+    [
+      "9",
+      "Lniana"
+    ],
+    [
+      "11",
+      "Chabrowa"
+    ],
+    [
+      "12",
+      "Lisia"
+    ],
+    [
+      "14",
+      "św. Antoniego"
+    ],
+    [
+      "16",
+      "Bartkiewiczówny"
+    ],
+    [
+      "18",
+      "Żwirki i Wigury"
+    ],
+    [
+      "20",
+      "Wybickiego"
+    ],
+    [
+      "22",
+      "Bema"
+    ],
+    [
+      "24",
+      "Odrodzenia"
+    ],
+    [
+      "26",
+      "Przy Kaszowniku"
+    ],
+    [
+      "28",
+      "Garbaty Mostek"
+    ],
+    [
+      "30",
+      "Dworzec Wschodni"
+    ],
+    [
+      "32",
+      "Plac Daszyńskiego"
+    ],
+    [
+      "34",
+      "Plac Daszyńskiego"
+    ],
+    [
+      "35",
+      "Rydygiera"
+    ],
+    [
+      "37",
+      "Jamontta"
+    ],
+    [
+      "39",
+      "Ślaskiego"
+    ],
+    [
+      "41",
+      "Wyszyńskiego"
+    ],
+    [
+      "42",
+      "Ligi Polskiej"
+    ],
+    [
+      "43",
+      "Witosa"
+    ],
+    [
+      "45",
+      "Kolankowskiego"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "08",
+      [
+        "-"
+      ]
+    ],
+    [
+      "09",
+      [
+        "04"
+      ]
+    ],
+    [
+      "10",
+      [
+        "-"
+      ]
+    ],
+    [
+      "11",
+      [
+        "04"
+      ]
+    ],
+    [
+      "12",
+      [
+        "-"
+      ]
+    ],
+    [
+      "13",
+      [
+        "28"
+      ]
+    ],
+    [
+      "14",
+      [
+        "28"
+      ]
+    ],
+    [
+      "15",
+      [
+        "28"
+      ]
+    ],
+    [
+      "16",
+      [
+        "-"
+      ]
+    ],
+    [
+      "17",
+      [
+        "-"
+      ]
+    ],
+    [
+      "18",
+      [
+        "35"
+      ]
+    ]
+  ]
+}

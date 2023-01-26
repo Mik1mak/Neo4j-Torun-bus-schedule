@@ -1,0 +1,246 @@
+{
+  "nazwa_linii": "35",
+  "opis_linii": "Kierunek: Krobia",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "",
+      "S T R E F A  I"
+    ],
+    [
+      "0",
+      "Plac św. Katarzyny"
+    ],
+    [
+      "3",
+      "Aleja Solidarności"
+    ],
+    [
+      "6",
+      "Przy Kaszowniku"
+    ],
+    [
+      "8",
+      "Garbaty Mostek"
+    ],
+    [
+      "10",
+      "Dworzec Wschodni"
+    ],
+    [
+      "12",
+      "Wschodnia"
+    ],
+    [
+      "14",
+      "Donimirskiego"
+    ],
+    [
+      "16",
+      "Rubinkowo Centrum"
+    ],
+    [
+      "18",
+      "Manhattan"
+    ],
+    [
+      "19",
+      "Przybyłów"
+    ],
+    [
+      "22",
+      "Dziewulskiego"
+    ],
+    [
+      "24",
+      "Kolankowskiego"
+    ],
+    [
+      "25",
+      "Kusocińskiego n/ż"
+    ],
+    [
+      "26",
+      "Słupska n/ż"
+    ],
+    [
+      "28",
+      "Odległa II"
+    ],
+    [
+      "28",
+      "S T R E F A  II - gr. adm."
+    ],
+    [
+      "30",
+      "Lubicz-Lipowa"
+    ],
+    [
+      "31",
+      "Lubicz-Kolejowa"
+    ],
+    [
+      "32",
+      "Lubicz-Urząd Gminy"
+    ],
+    [
+      "34",
+      "Lubicz Dolny"
+    ],
+    [
+      "36",
+      "Lubicz Górny"
+    ],
+    [
+      "37",
+      "Lubicz-Osiedle"
+    ],
+    [
+      "38",
+      "Lubicz-Bankowa"
+    ],
+    [
+      "40",
+      "Krobia-Kalinowa n/ż"
+    ],
+    [
+      "41",
+      "Krobia-Osiedlowa n/ż"
+    ],
+    [
+      "42",
+      "Krobia-Poligraficzna n/ż"
+    ],
+    [
+      "43",
+      "Krobia"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "10K",
+        "35",
+        "56K"
+      ]
+    ],
+    [
+      "06",
+      [
+        "25",
+        "45K"
+      ]
+    ],
+    [
+      "07",
+      [
+        "10",
+        "53"
+      ]
+    ],
+    [
+      "08",
+      [
+        "23",
+        "53"
+      ]
+    ],
+    [
+      "09",
+      [
+        "38K"
+      ]
+    ],
+    [
+      "10",
+      [
+        "23"
+      ]
+    ],
+    [
+      "11",
+      [
+        "08",
+        "53"
+      ]
+    ],
+    [
+      "12",
+      [
+        "23K",
+        "48"
+      ]
+    ],
+    [
+      "13",
+      [
+        "15K",
+        "38"
+      ]
+    ],
+    [
+      "14",
+      [
+        "03K",
+        "28",
+        "55"
+      ]
+    ],
+    [
+      "15",
+      [
+        "18K",
+        "43"
+      ]
+    ],
+    [
+      "16",
+      [
+        "08K",
+        "33",
+        "53K"
+      ]
+    ],
+    [
+      "17",
+      [
+        "38"
+      ]
+    ],
+    [
+      "18",
+      [
+        "23"
+      ]
+    ],
+    [
+      "19",
+      [
+        "08K",
+        "53"
+      ]
+    ],
+    [
+      "20",
+      [
+        "38"
+      ]
+    ],
+    [
+      "21",
+      [
+        "13K"
+      ]
+    ],
+    [
+      "22",
+      [
+        "08",
+        "39K"
+      ]
+    ]
+  ]
+}

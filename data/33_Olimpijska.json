@@ -1,0 +1,164 @@
+{
+  "nazwa_linii": "33",
+  "opis_linii": "Kierunek: Olimpijska",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Mazowiecka (pętla)"
+    ],
+    [
+      "1",
+      "Mazowiecka"
+    ],
+    [
+      "2",
+      "Fort IV n/ż"
+    ],
+    [
+      "3",
+      "Kociewska"
+    ],
+    [
+      "7",
+      "Hutowo n/ż"
+    ],
+    [
+      "9",
+      "Kanałowa"
+    ],
+    [
+      "10",
+      "Dębowa Góra"
+    ],
+    [
+      "12",
+      "Chrobrego"
+    ],
+    [
+      "13",
+      "Fabryczna n/ż"
+    ],
+    [
+      "17",
+      "Dworzec Wschodni"
+    ],
+    [
+      "19",
+      "Wschodnia"
+    ],
+    [
+      "21",
+      "Donimirskiego"
+    ],
+    [
+      "22",
+      "Rubinkowo Centrum"
+    ],
+    [
+      "24",
+      "Manhattan"
+    ],
+    [
+      "25",
+      "Przybyłów"
+    ],
+    [
+      "27",
+      "Ślaskiego"
+    ],
+    [
+      "29",
+      "Wyszyńskiego"
+    ],
+    [
+      "30",
+      "Ligi Polskiej"
+    ],
+    [
+      "31",
+      "Kosynierów Kośc."
+    ],
+    [
+      "33",
+      "Olimpijska"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "41"
+      ]
+    ],
+    [
+      "06",
+      [
+        "07",
+        "43"
+      ]
+    ],
+    [
+      "07",
+      [
+        "54"
+      ]
+    ],
+    [
+      "08",
+      [
+        "-"
+      ]
+    ],
+    [
+      "09",
+      [
+        "-"
+      ]
+    ],
+    [
+      "10",
+      [
+        "-"
+      ]
+    ],
+    [
+      "11",
+      [
+        "-"
+      ]
+    ],
+    [
+      "12",
+      [
+        "-"
+      ]
+    ],
+    [
+      "13",
+      [
+        "59K"
+      ]
+    ],
+    [
+      "14",
+      [
+        "-"
+      ]
+    ],
+    [
+      "15",
+      [
+        "10K"
+      ]
+    ],
+    [
+      "22",
+      [
+        "07aKH"
+      ]
+    ]
+  ]
+}

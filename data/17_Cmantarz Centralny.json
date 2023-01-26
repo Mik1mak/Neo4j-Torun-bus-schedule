@@ -1,0 +1,131 @@
+{
+  "nazwa_linii": "17",
+  "opis_linii": "Kierunek: Cmantarz Centralny",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Uniwersytet"
+    ],
+    [
+      "1",
+      "Okrężna"
+    ],
+    [
+      "2",
+      "Aula UMK"
+    ],
+    [
+      "3",
+      "Akademiki"
+    ],
+    [
+      "5",
+      "Od Nowa"
+    ],
+    [
+      "6",
+      "św. Józefa"
+    ],
+    [
+      "8",
+      "Szpital Bielany"
+    ],
+    [
+      "10",
+      "Boboli"
+    ],
+    [
+      "11",
+      "Lecha"
+    ],
+    [
+      "13",
+      "Lotników"
+    ],
+    [
+      "15",
+      "Kozacka"
+    ],
+    [
+      "17",
+      "Wielki Rów"
+    ],
+    [
+      "19",
+      "Polna"
+    ],
+    [
+      "20",
+      "Batorego"
+    ],
+    [
+      "22",
+      "Debowa Góra"
+    ],
+    [
+      "23",
+      "Kanałowa"
+    ],
+    [
+      "24",
+      "Kociewska"
+    ],
+    [
+      "26",
+      "Fort IV n/ż"
+    ],
+    [
+      "28",
+      "Mazowiecka"
+    ],
+    [
+      "30",
+      "Cmentarz Centr. II Brama"
+    ],
+    [
+      "31",
+      "Cmentarz Centralny"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "20MK"
+      ]
+    ],
+    [
+      "06",
+      [
+        "27MK"
+      ]
+    ],
+    [
+      "08",
+      [
+        "00K"
+      ]
+    ],
+    [
+      "13",
+      [
+        "20K"
+      ]
+    ],
+    [
+      "14",
+      [
+        "45"
+      ]
+    ],
+    [
+      "16",
+      [
+        "06"
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "nazwa_linii": "22",
+  "opis_linii": "Kierunek: Dworzec Główny",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Kolankowskiego"
+    ],
+    [
+      "2",
+      "Witosa"
+    ],
+    [
+      "3",
+      "Ligi Polskiej"
+    ],
+    [
+      "5",
+      "Wyszyńskiego"
+    ],
+    [
+      "6",
+      "Ślaskiego"
+    ],
+    [
+      "8",
+      "Jamontta"
+    ],
+    [
+      "9",
+      "Przy Skarpie"
+    ],
+    [
+      "11",
+      "Leszczynowa"
+    ],
+    [
+      "13",
+      "Plac Daszyńskiego"
+    ],
+    [
+      "14",
+      "Atrium Copernicus"
+    ],
+    [
+      "15",
+      "Dworzec Wschodni"
+    ],
+    [
+      "18",
+      "Garbaty Mostek"
+    ],
+    [
+      "20",
+      "Przy Kaszowniku"
+    ],
+    [
+      "23",
+      "Aleja Solidarności"
+    ],
+    [
+      "26",
+      "Plac Rapackiego"
+    ],
+    [
+      "29",
+      "Plac Armii Krajowej"
+    ],
+    [
+      "31",
+      "Dworzec Główny"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "04",
+      [
+        "40"
+      ]
+    ],
+    [
+      "05",
+      [
+        "18",
+        "38",
+        "58"
+      ]
+    ],
+    [
+      "06",
+      [
+        "18",
+        "39",
+        "58"
+      ]
+    ],
+    [
+      "07",
+      [
+        "18",
+        "38",
+        "59"
+      ]
+    ],
+    [
+      "08",
+      [
+        "10z"
+      ]
+    ],
+    [
+      "12",
+      [
+        "40"
+      ]
+    ],
+    [
+      "13",
+      [
+        "10",
+        "39",
+        "59"
+      ]
+    ],
+    [
+      "14",
+      [
+        "19",
+        "39",
+        "57"
+      ]
+    ],
+    [
+      "15",
+      [
+        "17",
+        "37",
+        "57"
+      ]
+    ],
+    [
+      "16",
+      [
+        "19",
+        "32z",
+        "52z"
+      ]
+    ],
+    [
+      "17",
+      [
+        "12z"
+      ]
+    ]
+  ]
+}

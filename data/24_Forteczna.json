@@ -1,0 +1,97 @@
+{
+  "nazwa_linii": "24",
+  "opis_linii": "Kierunek: Forteczna",
+  "trasa (czas, nazwa)": [
+    [
+      "min | przystanek"
+    ],
+    [
+      "0",
+      "Dworzec Wschodni"
+    ],
+    [
+      "2",
+      "Świętopełka"
+    ],
+    [
+      "5",
+      "Kościuszki"
+    ],
+    [
+      "6",
+      "Sczanieckiego"
+    ],
+    [
+      "8",
+      "Kozacka"
+    ],
+    [
+      "10",
+      "Wielki Rów"
+    ],
+    [
+      "12",
+      "Polna"
+    ],
+    [
+      "14",
+      "Fort V n/ż"
+    ],
+    [
+      "15",
+      "Forteczna n/ż"
+    ],
+    [
+      "16",
+      "Forteczna II n/ż"
+    ],
+    [
+      "18",
+      "Forteczna (pętla)"
+    ]
+  ],
+  "odjazdy (hh:mm)": [
+    [
+      "05",
+      [
+        "32"
+      ]
+    ],
+    [
+      "06",
+      [
+        "35"
+      ]
+    ],
+    [
+      "07",
+      [
+        "36"
+      ]
+    ],
+    [
+      "13",
+      [
+        "25"
+      ]
+    ],
+    [
+      "14",
+      [
+        "38"
+      ]
+    ],
+    [
+      "15",
+      [
+        "38"
+      ]
+    ],
+    [
+      "21",
+      [
+        "25"
+      ]
+    ]
+  ]
+}
