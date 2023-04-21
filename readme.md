@@ -1,6 +1,6 @@
-# Torun bus schedule parser for Neo4j
+# Parser rozkładu jazdy komunikacji miejskiej
 
- Skrypt przetwarzający rozkład jazdy Torunia i importujący go do grafowej bazy danych Neo4j w formie pozwalającej na wyszukiwanie najszybszych tras pomiędzy przystankami z uwzględnieniem przesiadek.
+ Skrypt przetwarzający rozkład jazdy komunikacji miejskiej Torunia i importujący go do grafowej bazy danych Neo4j w formie pozwalającej na wyszukiwanie najszybszych tras pomiędzy przystankami z uwzględnieniem przesiadek.
 
 # Model danych
 ![Model danych rozkladu jazdy](data_model.png)
