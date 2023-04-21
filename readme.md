@@ -3,7 +3,7 @@
  Skrypt przetwarzający rozkład jazdy Torunia i importujący go do grafowej bazy danych Neo4j w formie pozwalającej na wyszukiwanie najszybszych tras pomiędzy przystankami z uwzględnieniem przesiadek.
 
 # Model danych
-[Model danych rozkladu jazdy][data_model.png]
+![Model danych rozkladu jazdy](data_model.png)
 * Węzły odpowiadają etapom podróży
 * Połączenia odpowiadają przejazdom oraz najwcześniejszym przesiadkom, które zmieniają linię lub kierunek. Z każdym połączeniem wiąże się koszt równy ilości minut potrzebnych na przejazd lub oczekiwanie na przesiadkę.
 
