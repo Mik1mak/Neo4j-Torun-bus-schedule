@@ -23,7 +23,7 @@ CALL gds.graph.project(
 
 Wyszukanie najszybszej trasy pomiędzy przystankami *Polna* a *Uniwersytet* o godzinie odjazdu między 10:00 a 11:00
 ```
-MATCH (source:BusStop {name: 'Polna'}), (target:BusStop {name: 'Uniwersytet})
+MATCH (source:BusStop {name: 'Polna'}), (target:BusStop {name: 'Uniwersytet'})
 WHERE time("10:00") <= time(source.departure) <= time("11:00")
 CALL gds.shortestPath.dijkstra.stream('rozklad', {
     sourceNode: source,
